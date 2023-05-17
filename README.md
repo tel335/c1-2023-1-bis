@@ -18,5 +18,5 @@ o también `npm run start:dev` para utilizar `nodemon`.
 
 ## El proyecto
 
-Este proyecto usa como base el template de api rest hecho en `koa`. Considere que además se utiliza un dataset que corresponde a un archivo `json` el cual es cargado en memoria en la función `getUsersFromDataset` del archivo `usersRepository`.
+Este proyecto usa como base el template de api rest hecho en `koa`. Considere que además se utiliza un dataset que corresponde a un archivo `json` el cual es cargado en memoria en la función `getHistoricalDataFromDataset` del archivo `historicalRepository`.
 Utilice esa estructura de datos para resolver los enunciados del certámen.
